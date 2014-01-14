@@ -1,5 +1,7 @@
 # PhoneGap Build Starter Application
 
+testar
+
 > A Hello World application to get started with PhoneGap Build.
 
 ## Usage
